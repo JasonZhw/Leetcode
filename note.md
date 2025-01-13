@@ -1,4 +1,4 @@
-#2025.1.13
+# 2025.1.13
 2270. number of ways to spilt array
 简单的使用枚举法
 
